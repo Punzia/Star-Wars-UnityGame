@@ -1,6 +1,6 @@
 # Star-Wars-UnityGame
 
-Here is just some code I used to to make a little Star Wars
+Here is just some code I used to to make a little Star Wars game in Unity
 
               _             _
              //             \\
